@@ -409,7 +409,7 @@ main__img-container{
     color: #fff;
 }
 
-.skills__card:nth-child(2){
+#css{
     background-image: linear-gradient(
         to bottom, 
         rgba(0,0,0,0) 0%, 
